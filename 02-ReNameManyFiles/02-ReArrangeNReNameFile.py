@@ -4,7 +4,7 @@ import os
 #find out where the folder contain the files you need to use this scripts to automate parsing and rename all of the files
 #On command line: use cd to get into the folder you want to rename multiple files
 # Type pwd to find out where you at and put into the () below
-os.chdir('/Users/tevinvu/Desktop/testTxt')
+os.chdir('/Users/tevinvu/Desktop/testTxtBefore')
 #to print the directory you are in to check it is the right one or not
 print(os.getcwd())
 
